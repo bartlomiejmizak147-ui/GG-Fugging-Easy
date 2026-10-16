@@ -7,3 +7,6 @@ with other sites while the gif is playing. Images are preloaded to ensure that w
 
 
 Only use this extension if you hate yourself
+
+
+<img width="128" height="128" alt="128" src="https://github.com/user-attachments/assets/abe0c737-505c-4360-924d-5ad77d5b4c0e" />
