@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "GG FREAKING EASY",
+    "version": "1.0",
+    "description": "Everytime you press g two times in a short span of time it will play GG FREAKING EASY",
+    "content_scripts": [
+        {
+        "matches": ["<all_urls>"], "js": ["keylistener.js"]
+        }
+    
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["gg.gif", "gg.mp3"],
+            "matches": ["<all_urls>"]
+        }
+    ]
+}
